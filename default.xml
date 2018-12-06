@@ -10,7 +10,7 @@
   <remote fetch="git://github.com/meta-qt5"  name="QT5"/>
   <remote fetch="git://git.freescale.com/imx" name="fsl-release" />
   <remote fetch="git://github.com/linearlog1/" name="advanserver"/>
-  <project remote="yocto" name="poky" path="sources/poky"/>
+  <project remote="advanserver" name="poky" path="sources/poky"/>
   <project remote="advanserver" name="meta-freescale" path="sources/meta-freescale"/>
 
   <project remote="advanserver" name="meta-openembedded" path="sources/meta-openembedded"/>
